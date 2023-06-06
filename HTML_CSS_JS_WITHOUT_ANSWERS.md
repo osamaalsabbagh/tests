@@ -76,7 +76,7 @@
   3. An element with a class of "nav"
 ```
 
-**B)** `They all target the same nav element.`
+**B)** `They all target the same nav element.`  
 **C)**
 
 ```
