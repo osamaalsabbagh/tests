@@ -2,11 +2,10 @@
 
 #### Q1. Which of the following is not a way to add jobs to a queue in Laravel?
 
-
-**A)** Using the dispatch method
-**B)** Using the dispatchNow method
-**C)** Using the dispatchLater method
-**D)** Using the dispatchImmediately method
+**A)** Using the dispatch method.  
+**B)** Using the dispatchNow method  
+**C)** Using the dispatchLater method 
+**D)** Using the dispatchImmediately method 
 
 <br>
 
