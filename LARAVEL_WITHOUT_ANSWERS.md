@@ -4,8 +4,8 @@
 
 **A)** Using the dispatch method.  
 **B)** Using the dispatchNow method  
-**C)** Using the dispatchLater method .
-**D)** Using the dispatchImmediately method 
+**C)** Using the dispatchLater method.
+**D)** Using the dispatchImmediately method. 
 
 <br>
 
