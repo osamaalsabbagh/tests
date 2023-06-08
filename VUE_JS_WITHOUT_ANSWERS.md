@@ -12,9 +12,9 @@
 #### Q2. Which of the following data binding interpolation is also known as "Mustache" syntax?
 
 
-**A)** v-on. 
-**B)** v-model.  
-**C)** {{}}.  
+**A)** v-on.   
+**B)** v-model.    
+**C)** {{}}.    
 **D)** [].  
 
 
