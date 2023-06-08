@@ -40,10 +40,10 @@
 
 #### Q5. In which directory robots.txt file is located?
 
-**A)** models 
-**B)** public 
-**C)** views  
-**D)** controller
+**A)** models  
+**B)** public  
+**C)** views   
+**D)** controller 
 
 <br>
 
@@ -51,7 +51,7 @@
 
 **A)** split()  
 **B)** chunk()  
-**C)** explode() 
+**C)** explode()  
 **D)** break()
 
 <br>
@@ -104,8 +104,8 @@
 #### Q12. Command to check the status of migration in laravel application?
 
 **A)** php artisan migration status.  
-**B)** php artisan status
-**C)** php artisan migrate:status 
+**B)** php artisan status  
+**C)** php artisan migrate:status   
 **D)** None of these  
 
 <br>
@@ -131,6 +131,6 @@
 #### Q15. In how many ways a new middleware can be register in kernel.php?
 
 **A)** 1.  
-**B)** 2
-**C)** 3 
-**D)** 4 
+**B)** 2  
+**C)** 3  
+**D)** 4  
