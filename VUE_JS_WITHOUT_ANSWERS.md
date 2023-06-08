@@ -2,10 +2,10 @@
 
 #### Q1. Which of the following statement best define Vue.js?
 
-**A)** Vue.js is an open-source JavaScript library that is used for developing user interfaces.
-**B)** Vue.js is an open-source front-end JavaScript framework used for developing user interfaces.
-**C)** Vue.js is an open-source, cross-platform, JavaScript run-time situation that performs the JavaScript program outside a web browser.
-**D)** Vue.js is a JavaScript library constructed to facilitate HTML DOM tree traversal and administration, event handling, CSS activity, and Ajax.  
+**A)** Vue.js is an open-source JavaScript library that is used for developing user interfaces.  
+**B)** Vue.js is an open-source front-end JavaScript framework used for developing user interfaces.  
+**C)** Vue.js is an open-source, cross-platform, JavaScript run-time situation that performs the JavaScript program outside a web browser.  
+**D)** Vue.js is a JavaScript library constructed to facilitate HTML DOM tree traversal and administration, event handling, CSS activity, and Ajax.    
 
 <br>
 
@@ -46,19 +46,19 @@
     new Vue({  
     el: '#demo'  
 ```
-**A)** `v-bind:my-component`. 
-**B)** `<my-component></my-component>`.
-**C)** `v-my-component`.
-**D)** `@my-component`.
+**A)** `v-bind:my-component`.  
+**B)** `<my-component></my-component>`.  
+**C)** `v-my-component`.  
+**D)** `@my-component`.  
 
 <br>
 
 #### Q6. Why is Vue.js called a progressive framework?
 
-**A)** Vue.js is called a progressive framework because it is being changed and developed continually. 
-**B)** Vue.js is called a progressive framework because it facilitates us to create Dynamic User Interfaces and single-page applications. 
-**C)** Vue.js is called a progressive framework because it follows the latest JavaScript standards.
-**D)** All of the above.
+**A)** Vue.js is called a progressive framework because it is being changed and developed continually.   
+**B)** Vue.js is called a progressive framework because it facilitates us to create Dynamic User Interfaces and single-page applications.   
+**C)** Vue.js is called a progressive framework because it follows the latest JavaScript standards.  
+**D)** All of the above.  
 
 <br>
 
@@ -74,8 +74,8 @@
 #### Q8. To bind HTML class, we need to use ____________.
 
 **A)** `v-bind: class`  
-**B)** `a-bind: class` 
-**C)** `p-bind: class`  
+**B)** `a-bind: class`   
+**C)** `p-bind: class`    
 **D)** `p-bind: class`
 
 <br>
@@ -91,10 +91,10 @@
 
 #### Q10. Which of the following directive is used for two-way binding in Vue.js?
 
-**A)** v-on 
-**B)** v-model
-**C)** no-one 
-**D)** v-bind
+**A)** v-on   
+**B)** v-model  
+**C)** no-one   
+**D)** v-bind  
 
 <br>
 
@@ -109,34 +109,34 @@
 
 #### Q12. Which of the following is a core feature of Mixins in Vue.js?
 
-**A)** Mixins provide great flexibility.
-**B)** Mixin contains options for Vue.js components. You can use Mixins in Vue.js safely because they do not affect changes outside their defined scope.
-**C)** Mixins in Vue.js provide a great platform for code reusability.   
-**D)** All of the above.
+**A)** Mixins provide great flexibility.  
+**B)** Mixin contains options for Vue.js components. You can use Mixins in Vue.js safely because they do not affect changes outside their defined scope.  
+**C)** Mixins in Vue.js provide a great platform for code reusability.     
+**D)** All of the above.  
 
 <br>
 
 #### Q13. Which of the following is the correct syntax to use for loop in Vue.js?
 
-**A)** *v-for  
-**B)** vFor 
-**C)** v-for 
-**D)** None of the above  
+**A)** *v-for   
+**B)** vFor   
+**C)** v-for   
+**D)** None of the above    
 
 <br>
 
 #### Q14. Which of the following syntax is correct for creating a Vue.js instance?
 
-**A)** var text = new Vue({// options })
-**B)** var text = new text ({//options})  
-**C)** var text = new class ({//options})  
+**A)** var text = new Vue({// options })  
+**B)** var text = new text ({//options})    
+**C)** var text = new class ({//options})    
 **D)** var text = new object ({//options}) 
 
 <br>
 
 #### Q15. Which of the following is the correct way to install Vue.js in your project?
 
-**A)** We can install Vue.js by using CDN by including <script> tag in HTML file.  
-**B)** We can install Vue.js by using Node Package Manager (NPM).
-**C)** You can install Vue.js using Bower.  
-**D)** All of the above.
+**A)** We can install Vue.js by using CDN by including <script> tag in HTML file.    
+**B)** We can install Vue.js by using Node Package Manager (NPM).  
+**C)** You can install Vue.js using Bower.    
+**D)** All of the above.  
