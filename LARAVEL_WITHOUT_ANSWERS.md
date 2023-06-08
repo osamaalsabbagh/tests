@@ -86,7 +86,7 @@
 #### Q10. What is the purpose of the app/Providers directory in a Laravel project?
 
 **A)** It stores views for the application  
-**B)** It stores controllers for the application
+**B)** It stores controllers for the application  
 **C)** It stores routes for the application  
 **D)** It stores classes that provide various services to the rest of the application
 
