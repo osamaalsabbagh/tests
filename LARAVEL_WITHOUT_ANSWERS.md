@@ -40,10 +40,10 @@
 
 #### Q5. In which directory robots.txt file is located?
 
-**A)** models.  
-**B)** public
-**C)** views 
-**D)** controller 
+**A)** models 
+**B)** public 
+**C)** views  
+**D)** controller
 
 <br>
 
